@@ -1,3 +1,3 @@
 # 练习 Git Rebase
 
-modify a
+modify b three times
